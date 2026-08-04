@@ -1,0 +1,17 @@
+# Ignore compiled executables
+program1
+program2
+program3
+program4
+program5
+program6
+program7
+
+# Ignore object files
+*.o
+
+# Ignore backup files
+*~
+
+# Ignore editor swap files
+*.swp
